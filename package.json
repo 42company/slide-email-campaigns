@@ -10,12 +10,22 @@
   "license": "ISC",
   "dependencies": {
     "angular": "^1.4.8",
-    "ejs": "^2.3.4",
+    "aws-sdk": "^2.2.19",
+    "browserify": "^12.0.1",
     "express": "^4.13.3",
+    "fast-csv": "^0.6.0",
     "foundation-sites": "^6.0.3",
     "jade": "^1.11.0",
-    "node-sass-middleware": "^0.9.7"
+    "multer": "^1.1.0",
+    "ng-file-upload": "^10.0.2",
+    "node-sass-middleware": "^0.9.7",
+    "nodemailer": "^1.10.0",
+    "nodemailer-smtp-transport": "^1.0.4"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-browserify": "^0.5.1",
+    "gulp-nodemon": "^2.0.4"
+  },
   "keywords": []
 }
