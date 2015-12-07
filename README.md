@@ -45,6 +45,7 @@ You can use csv address list.
 name,email
 one,one@42.company
 two,two@42.company
+```
 
 ```
 foreman run gulp send
